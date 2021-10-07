@@ -20,14 +20,22 @@ The summary for the lots are shown next below. This shows that Lots 1 and 2 pass
 
 # T-Test on suspension coils
 The third analysis for MechaCar was to look at the average PSI for the suspension coils compared to the required of 1500. This was done by performing a 1 sample t-test with all the lot data grouped, and then 3 additional indivdual sample t-tests to compare each of the lots to the specification. When all lot data was combined, the p-value of the t-test was 0.0603. This is higher than the significance level of .05, so we cannot reject the null hypothesis that the mean is 1500. The t-test results for the combined lot data is shown below.
+
 ![prelot](https://user-images.githubusercontent.com/82550431/136378024-32aa155c-82e7-44dc-9e08-fbd10b1827c6.png)
+
  
 Lots 1 and 2 have a p-value higher than the significance level (1 and 0.6072), so we cannot reject the null hypothesis. Although, Lot 3 has a p-value of .0417, lower than the significance level, which means to reject the null hypothesis and alternatively that the mean does not equal 1500. So while the combined lots meet the specification, lot 3 does not meet the criteria. 
 The results for the individual lots are shown below.
 
+
 **Lot1**
+
 ![lot1](https://user-images.githubusercontent.com/82550431/136378040-5a536d9d-9ae0-4dac-8ec9-e8c741b97ada.png)
+
 **Lot 2**
+
 ![lot2](https://user-images.githubusercontent.com/82550431/136378064-5ed50bcf-4bc8-4e20-9f4a-4129c3abc0e5.png)
+
 **Lot 3**
+
 ![lot3](https://user-images.githubusercontent.com/82550431/136378078-f88307c5-bacf-41c8-ac0c-3f0f2bf0b252.png)

@@ -24,7 +24,7 @@ The third analysis for MechaCar was to look at the average PSI for the suspensio
 ![prelot](https://user-images.githubusercontent.com/82550431/136378024-32aa155c-82e7-44dc-9e08-fbd10b1827c6.png)
 
  
-Lots 1 and 2 have a p-value higher than the significance level (1 and 0.6072), so we cannot reject the null hypothesis. Although, Lot 3 has a p-value of .0417, lower than the significance level, which means to reject the null hypothesis and alternatively that the mean does not equal 1500. So while the combined lots meet the specification, lot 3 does not meet the criteria. 
+Lots 1 and 2 have a p-value higher than the significance level (1 and 0.6072), so we cannot reject the null hypothesis. Although, Lot 3 has a lower significance level of a p-value of .0417, which means to reject the null hypothesis and alternatively that the mean does not equal 1500. So while the combined lots meet the specification, lot 3 does not meet the criteria. 
 The results for the individual lots are shown below.
 
 

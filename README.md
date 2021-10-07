@@ -7,10 +7,10 @@ This analysis is to use R and statistical tests to review car data for a car man
 
 For the first analysis, a multiple linear regression is used to see what variables are related to MPG. The variables examined were vehicle length and weight, spoiler angle, ground clearance and All wheel drive. *Results shown above*
 
-Based on the shown data, the intercept, vehicle length and ground clearance g a non-random amount of variance to the MPG values in the given data. The p-value is less than the signifcance level of 0.05, rejecting the hypothesis in regards of the althernative that the slope is not zero. This regression is fairly effecive at predicting the MPG, it accounts for about 70% of mpg value, based on the R-squared value of 0.7149. Although, there is still variation that is not accounted for based on this regression.
+With the shown data, the intercept, vehicle length and ground clearance g a non-random amount of variance to the MPG values in the given data. The p-value is less than the signifcance level of 0.05, rejecting the hypothesis in regards of the althernative that the slope is not zero. This regression is fairly effecive at predicting the MPG, it accounts for about 70% of mpg value, based on the R-squared value of 0.7149. Although, there is still variation that is not accounted for based on this regression.
 
 # Statistics on suspension coils
-The next analysis for the MechaCar was to evaluate the PSI variance of the suspension coils. The design specifications for the MechaCar suspension coils explain that the variance of the suspension coils must not exceed 100 pounds per square inch. This was evaluated by looking at all the data put together, as well as by each lot individually. The summary for the combined data is shown below. This shows an overall variance of 62.2, which is in the 100 PSI limit.
+The next analysis for the MechaCar was to determine the PSI variance of the suspension coils. The design requirement/specifcations for the MechaCar suspension coils explain that the variance of the suspension coils must not exceed 100 pounds per square inch. This was evaluated by looking at all the data put together, as well as by each lot individually. The summary for the combined data is shown below. This shows an overall variance of 62.2, which is in the 100 PSI limit.
 
 ![Cap1](https://user-images.githubusercontent.com/82550431/136377015-998b6ba1-45ab-4f09-a527-7236389d7282.png)
 

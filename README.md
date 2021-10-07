@@ -39,3 +39,12 @@ The results for the individual lots are shown below.
 **Lot 3**
 
 ![lot3](https://user-images.githubusercontent.com/82550431/136378078-f88307c5-bacf-41c8-ac0c-3f0f2bf0b252.png)
+
+# Conclusion
+Many consumers, especially like families and those who have most likely previously been in accidents, value safety when it comes to picking their car. To test MechaCar's safety rating against its competition, we need to create a null and alternative hypothesis.
+
+Null Hypothesis: MechaCar's vehicle safety ratings are no different from its competitors
+
+Alternative Hypothesis: MechaCar's vehicle safety ratings are different from its competitors
+
+To test these, we'd need to collect safety ratings on MechaCar's models as well as its competitors from the Insurance Institute for Highway Safety, which determines saftey ratings. As the non-profit explains, their scores are determined by four factors: measurements from dummies, survival space, airbags, and seat belt safety. Using that data, we could t-test the population of vehicles and each carmaker. This will help us determine if MechaCar's vehicles' safety rating scores are  different from its competitors as a whole and then statistically different from each competitor.
